@@ -1,0 +1,9 @@
+[package]
+name = "learn_rust"
+version = "0.1.0"
+authors = ["Guoliang Cao <gcao99@gmail.com>"]
+description = "Learn Rust"
+license = "MIT"
+documentation = "https://github.com/gcao/learn_rust"
+homepage = "https://github.com/gcao/learn_rust"
+repository = "https://github.com/gcao/learn_rust"
